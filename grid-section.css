@@ -48,6 +48,9 @@
 
 .root-container {
   padding: 44px 12px;
+  height: 95vh;
+  display: flex;
+  align-items: center;
 }
 
 /********** Image Formatting **********/
